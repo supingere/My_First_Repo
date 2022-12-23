@@ -1,0 +1,14 @@
+h1 {
+ font-family: helvetica, arial, sans-serif;
+}
+.left {
+    float: left;
+    padding-right: 15px;
+}
+.right {
+    float: right;
+    padding-left: 15px;
+}
+.seperator {
+    width: 750px;
+}

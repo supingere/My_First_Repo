@@ -1,0 +1,10 @@
+h1 {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: grey;
+   
+}
+aside {
+    width: 29%;
+    float: left;
+    height: 400px;
+}

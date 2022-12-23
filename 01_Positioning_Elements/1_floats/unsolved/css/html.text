@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="css/index.css" type="text/css" rel="stylesheet">
+  <div>Home</div>
+  <div>Diet</div>
+  <div>Habitat</div>
+</head>
+<body>
+  <section class="relative">
+   
+  </section>
+  <aside>
+
+  </aside>
+<div class="fixed">
+  Hi, I'm a fixed element!
+</div>
+</body>
+</html>
